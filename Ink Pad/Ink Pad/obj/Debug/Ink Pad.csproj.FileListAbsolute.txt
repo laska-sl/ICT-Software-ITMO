@@ -1,0 +1,14 @@
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb
