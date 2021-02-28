@@ -1,0 +1,14 @@
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\bin\Debug\Param.exe.config
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\bin\Debug\Param.exe
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\bin\Debug\Param.pdb
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\MainWindow.g.cs
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\App.g.cs
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param_MarkupCompile.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param_MarkupCompile.lref
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\MainWindow.baml
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.g.resources
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.Properties.Resources.resources
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.exe
+C:\Users\Vyacheslav\OneDrive\University\8 semester\ICT Software\Projects\Param\Param\obj\Debug\Param.pdb
